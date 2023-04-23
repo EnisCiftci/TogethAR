@@ -4,32 +4,19 @@
 </p>
 
 # Introduction 
-TogethAR started as a Study-Project. The Idea was to create an Alternative Reality iPad App with collaborative Tools and Sessions. Users will be able to host sessions and showcase 3D Models to other participants.
+TogethAR started as a Study-Project which aimed at creating an Alternative Reality iPad App with collaborative tools and sessions. The objective is to enable users to host and participate in sessions, showcasing 3D models to other participants.
 
 # Sessions
-Users will be able to host their own Room or join Rooms created by other users in the vicinity. The user can decide whether the Room should be open to join or require a password, be able to join instantly or be put into a queue, or how many participants can join a room up to 8 Users max.
+To facilitate seamless sessions, users can host their own rooms or join existing ones created by other users within proximity. The user has complete control over the room, deciding whether it should be open to all or password-protected, instant or queued, and specifying the maximum number of participants, up to 8 users.
 
 # Collaborative Tools
-To allow Users to showcase 3D Models they can place the 3D Object on a horizontal plane inside the Room. They can move, edit, zoom, turn and delete their Models and all changes are synchronized across all participants in the Session. Every Object has its own "Master" and Users can identify which Object belongs to who by long pressing on a Object, or they can edit the Object if its their Object. 
+To allow for the showcase of 3D models, users can place them on any horizontal plane within the room. Users can then move, edit, zoom, turn, and delete their models. Any changes made by a user are synchronized across all participants in the session. Each object has its own "Master". By long-pressing on a object users can identify whom the object belongs to or if they are the master, edit it.
 
-Other Tools are:
-
-->Laserpointer which projects a dot from the center of the screen to either the real world or a AR-Object. The Pointer size can be adjusted to be smaller or bigger to the Users liking.
-
-->Drawing Tools are "AirDraw" which allows the user to draw shapes in the air on a plane horizontal to the screen. The plane can be pushed up to 2m away or pulled up to 10cm infront of the screen.
-
-->Another drawing Tool is "Projection" which projects the drawing onto the real world or AR-Objects.
-
-The colors of the Laserpointer, drawing lines and User Model are asigned randomly at Session Entry
+The app has several collaborative tools, such as the laser pointer, which projects a dot from the center of the screen onto the real world or AR object. Users can adjust the pointer's size as per their preference. Drawing tools like "AirDraw" allow users to draw shapes in the air on a plane parallel to the screen, which can be pushed up to 2m away or pulled up to 10cm in front of the screen. Another drawing tool "Projection" projects the drawing onto the real world or AR objects. The colors of the laser pointer, drawing lines, and user model are randomly assigned at session entry.
 
 # UX
-Intuitive swipe gestuers allows the User to use the App in a natural feeling way. Swipe Gestures include "Swipe Left/Right" to open the ModelPicker, "Swipe Down" on the Rooms Menu to close it, "Move and Snap" the Toolbar to enable left- or righthanded Mode.
+The app has an intuitive interface, with swipe gestures allowing users to use the app naturally. For instance, a swipe left or right opens the model picker, while swiping down on the rooms menu closes it. The toolbar can be moved and snapped to enable left or right-handed mode.
 
 # Future 
-I plan to expand this App in the future with many features. For example I plan to expand the App with an iPhone port or to upgrade the drawing Tools with PencilKit
 
-
-
-
-
-
+There are plans to expand the functionality of TogethAR in the future with several new features. These include the development of an iPhone port and an upgraded drawing tool with PencilKit, among many others.
